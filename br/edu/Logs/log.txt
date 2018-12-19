@@ -1,0 +1,194 @@
+2017-06-20 16:00:29.974936 Diretório Logs já existe
+2017-06-20 16:00:29.974936 Arquivo resultado.txt já existe
+
+2017-06-20 16:06:13.426580 Arquivo logs.txt já existe
+2017-06-20 16:06:13.430581 Diretório Logs já existe
+2017-06-20 16:06:13.430581 Arquivo resultado.txt já existe
+2017-06-20 16:08:31.365470 Arquivo logs.txt já existe
+2017-06-20 16:08:31.365470 Diretório Logs já existe
+2017-06-20 16:08:31.366470 Arquivo resultado.txt já existe
+2017-06-20 16:21:40.640603 Arquivo logs.txt já existe
+2017-06-20 16:21:40.646604 Diretório Logs já existe
+2017-06-20 16:21:40.652604 Arquivo resultado.txt já existe
+2017-06-20 16:23:33.170040 Arquivo logs.txt já existe
+2017-06-20 16:23:33.176040 Diretório Logs já existe
+2017-06-20 16:23:33.182040 Arquivo resultado.txt já existe
+2017-06-20 16:23:36.700242 invalid literal for int() with base 10: teste
+2017-06-20 16:23:49.763989 invalid literal for int() with base 10: asd
+2017-06-20 16:23:49.996002 invalid literal for int() with base 10: as
+2017-06-20 16:23:50.148011 invalid literal for int() with base 10: da
+2017-06-20 16:23:50.292019 invalid literal for int() with base 10: sd
+2017-06-20 16:23:50.420026 invalid literal for int() with base 10: as
+2017-06-20 16:23:50.532033 invalid literal for int() with base 10: d
+2017-06-20 16:23:50.668040 invalid literal for int() with base 10: as
+2017-06-20 16:23:50.772046 invalid literal for int() with base 10: d
+2017-06-20 16:23:50.875052 invalid literal for int() with base 10: as
+2017-06-20 16:23:50.980058 invalid literal for int() with base 10: d
+2017-06-20 16:23:51.100065 invalid literal for int() with base 10: a
+2017-06-20 16:23:51.220072 invalid literal for int() with base 10: sd
+2017-06-20 16:23:51.355080 invalid literal for int() with base 10: as
+2017-06-20 16:23:51.468086 invalid literal for int() with base 10: d
+2017-06-20 16:23:51.588093 invalid literal for int() with base 10: as
+2017-06-20 16:23:51.708100 invalid literal for int() with base 10: d
+2017-06-20 16:23:51.924112 invalid literal for int() with base 10: asd
+2017-06-20 16:23:52.051120 invalid literal for int() with base 10: a
+2017-06-20 16:23:52.172127 invalid literal for int() with base 10: sd
+2017-06-20 16:23:52.292133 invalid literal for int() with base 10: a
+2017-06-20 16:23:52.412140 invalid literal for int() with base 10: sd
+2017-06-20 16:23:52.540148 invalid literal for int() with base 10: a
+2017-06-20 16:23:52.660154 invalid literal for int() with base 10: sd
+2017-06-20 16:23:52.796162 invalid literal for int() with base 10: as
+2017-06-20 16:23:52.923169 invalid literal for int() with base 10: d
+2017-06-20 16:23:53.044176 invalid literal for int() with base 10: as
+2017-06-20 16:23:53.172184 invalid literal for int() with base 10: d
+2017-06-20 16:23:53.300191 invalid literal for int() with base 10: as
+2017-06-20 16:23:53.420198 invalid literal for int() with base 10: da
+2017-06-20 16:23:53.996231 invalid literal for int() with base 10: sd
+2017-06-20 16:50:44.007293 Arquivo logs.txt já existe
+2017-06-20 16:50:44.017293 Diretório Logs já existe
+2017-06-20 16:50:44.027293 Arquivo resultado.txt já existe
+2017-06-20 16:51:16.361499 Arquivo logs.txt já existe
+2017-06-20 16:51:16.371499 Diretório Logs já existe
+2017-06-20 16:51:16.381499 Arquivo resultado.txt já existe
+2017-06-20 16:53:41.145542 Arquivo logs.txt já existe
+2017-06-20 16:53:41.155542 Diretório Logs já existe
+2017-06-20 16:53:41.165542 Arquivo resultado.txt já existe
+2017-06-20 16:59:14.239277 Arquivo logs.txt já existe
+2017-06-20 16:59:14.249277 Diretório Logs já existe
+2017-06-20 16:59:14.259277 Arquivo resultado.txt já existe
+2017-06-20 16:59:19.053284 Valores inválidos
+2017-06-20 16:59:23.177294 invalid literal for int() with base 10: a
+2017-06-20 17:00:58.293963 Arquivo logs.txt já existe
+2017-06-20 17:00:58.303963 Diretório Logs já existe
+2017-06-20 17:00:58.313963 Arquivo resultado.txt já existe
+2017-06-20 17:01:24.710257 Arquivo logs.txt já existe
+2017-06-20 17:01:24.720258 Diretório Logs já existe
+2017-06-20 17:01:24.729258 Arquivo resultado.txt já existe
+2017-06-21 08:02:59.496689 Arquivo logs.txt já existe
+2017-06-21 08:02:59.506689 Diretório Logs já existe
+2017-06-21 08:03:00.635754 Arquivo resultado.txt já existe
+2017-06-21 08:05:46.006213 Arquivo logs.txt já existe
+2017-06-21 08:05:46.016213 Diretório Logs já existe
+2017-06-21 08:05:46.024214 Arquivo resultado.txt já existe
+2017-06-21 08:07:36.770548 Arquivo logs.txt já existe
+2017-06-21 08:07:36.779549 Diretório Logs já existe
+2017-06-21 08:07:36.789549 Arquivo resultado.txt já existe
+2017-06-21 08:08:25.790352 Arquivo logs.txt já existe
+2017-06-21 08:08:25.795352 Diretório Logs já existe
+2017-06-21 08:08:25.800352 Arquivo resultado.txt já existe
+2017-06-21 08:16:04.333579 Arquivo logs.txt já existe
+2017-06-21 08:16:04.337579 Diretório Logs já existe
+2017-06-21 08:16:04.347580 Arquivo resultado.txt já existe
+2017-06-21 08:17:03.480962 Arquivo logs.txt já existe
+2017-06-21 08:17:03.488962 Diretório Logs já existe
+2017-06-21 08:17:03.496963 Arquivo resultado.txt já existe
+2017-06-21 08:17:43.215235 Arquivo logs.txt já existe
+2017-06-21 08:17:43.224235 Diretório Logs já existe
+2017-06-21 08:17:43.232236 Arquivo resultado.txt já existe
+2017-06-21 08:21:57.319769 Arquivo logs.txt já existe
+2017-06-21 08:21:57.327769 Diretório Logs já existe
+2017-06-21 08:21:57.336770 Arquivo resultado.txt já existe
+2017-06-21 08:26:10.542484 Arquivo logs.txt já existe
+2017-06-21 08:26:10.551485 Diretório Logs já existe
+2017-06-21 08:26:10.560485 Arquivo resultado.txt já existe
+2017-06-21 08:26:23.544228 Arquivo logs.txt já existe
+2017-06-21 08:26:23.552228 Diretório Logs já existe
+2017-06-21 08:26:23.561229 Arquivo resultado.txt já existe
+2017-06-21 08:26:37.329016 Arquivo logs.txt já existe
+2017-06-21 08:26:37.337017 Diretório Logs já existe
+2017-06-21 08:26:37.346017 Arquivo resultado.txt já existe
+2017-06-21 08:33:53.553967 Arquivo logs.txt já existe
+2017-06-21 08:33:53.561968 Diretório Logs já existe
+2017-06-21 08:33:53.570968 Arquivo resultado.txt já existe
+2017-06-21 08:34:06.634715 EOF Error, input is empty
+2017-06-21 08:35:04.157005 Arquivo logs.txt já existe
+2017-06-21 08:35:04.166006 Diretório Logs já existe
+2017-06-21 08:35:04.174006 Arquivo resultado.txt já existe
+2017-06-21 08:35:07.290185 EOF Error, input is empty
+2017-06-21 08:35:07.299185 invalid literal for int() with base 10: 
+2017-06-21 08:35:09.873332 EOF Error, input is empty
+2017-06-21 08:35:09.878333 invalid literal for int() with base 10: 
+2017-06-21 08:35:12.058457 invalid literal for int() with base 10: z
+2017-06-21 08:35:13.506540 EOF Error, input is empty
+2017-06-21 08:35:13.515541 invalid literal for int() with base 10: 
+2017-06-21 08:35:14.746611 EOF Error, input is empty
+2017-06-21 08:35:14.754611 invalid literal for int() with base 10: 
+2017-06-21 08:35:15.674664 EOF Error, input is empty
+2017-06-21 08:35:15.682665 invalid literal for int() with base 10: 
+2017-06-21 08:35:15.890676 invalid literal for int() with base 10: 
+2017-06-21 08:35:16.345702 invalid literal for int() with base 10: 
+2017-06-21 08:35:16.969738 invalid literal for int() with base 10: 
+2017-06-21 11:23:51.082316 Arquivo logs.txt já existe
+2017-06-21 11:23:51.092316 Diretório Logs já existe
+2017-06-21 11:23:51.102316 Arquivo resultado.txt já existe
+2017-06-21 11:29:48.889697 Arquivo logs.txt já existe
+2017-06-21 11:29:48.899697 Diretório Logs já existe
+2017-06-21 11:29:48.909697 Arquivo resultado.txt já existe
+2017-06-21 11:30:21.041900 Arquivo logs.txt já existe
+2017-06-21 11:30:21.051900 Diretório Logs já existe
+2017-06-21 11:30:21.061900 Arquivo resultado.txt já existe
+2017-06-21 11:45:21.672634 Arquivo logs.txt já existe
+2017-06-21 11:45:21.682634 Diretório Logs já existe
+2017-06-21 11:45:21.692634 Arquivo resultado.txt já existe
+2017-06-21 11:47:02.301405 Arquivo logs.txt já existe
+2017-06-21 11:47:02.310406 Diretório Logs já existe
+2017-06-21 11:47:02.319406 Arquivo resultado.txt já existe
+2017-06-21 11:47:34.526735 Arquivo logs.txt já existe
+2017-06-21 11:47:34.536735 Diretório Logs já existe
+2017-06-21 11:47:34.546735 Arquivo resultado.txt já existe
+2017-06-22 08:31:37.375484 Não é um CPF válido
+2017-06-22 08:33:07.967219 Não é um CPF válido
+2017-06-22 08:35:13.324748 error: 
+2017-06-22 08:35:14.748019 error: 
+2017-06-22 08:35:15.036035 error: 
+2017-06-22 08:35:15.251039 error: 
+2017-06-22 08:35:15.453839 error: 
+2017-06-22 08:35:15.685240 error: 
+2017-06-22 08:35:15.920241 error: 
+2017-06-22 08:35:16.174242 error: 
+2017-06-22 08:35:16.408243 error: 
+2017-06-22 08:35:16.675443 error: 
+2017-06-22 08:35:16.940644 error: 
+2017-06-22 08:35:17.174644 error: 
+2017-06-22 08:35:17.441845 error: 
+2017-06-22 08:35:17.684846 error: 
+2017-06-22 08:35:17.951046 error: 
+2017-06-22 08:35:18.216247 error: 
+2017-06-22 08:35:18.465847 error: 
+2017-06-22 13:10:51.863763 Não é um CPF válido
+2017-06-23 22:00:03.922832 Arquivo logs.txt já existe
+2017-06-23 22:00:03.922832 Diretório Logs já existe
+2017-06-23 22:00:03.923830 Arquivo resultado.txt já existe
+2017-06-23 22:05:47.829683 Arquivo logs.txt já existe
+2017-06-23 22:05:47.830683 Diretório Logs já existe
+2017-06-23 22:05:47.831680 Arquivo resultado.txt já existe
+2017-06-23 22:06:26.114901 Arquivo logs.txt já existe
+2017-06-23 22:06:26.115906 Diretório Logs já existe
+2017-06-23 22:06:26.116905 Arquivo resultado.txt já existe
+2017-06-23 22:06:59.175867 Arquivo logs.txt já existe
+2017-06-23 22:06:59.176868 Diretório Logs já existe
+2017-06-23 22:06:59.177864 Arquivo resultado.txt já existe
+2017-06-23 22:14:56.157861 Arquivo logs.txt já existe
+2017-06-23 22:14:56.158861 Diretório Logs já existe
+2017-06-23 22:14:56.159861 Arquivo resultado.txt já existe
+2017-06-23 22:17:07.433526 Arquivo logs.txt já existe
+2017-06-23 22:17:07.434530 Diretório Logs já existe
+2017-06-23 22:17:07.435531 Arquivo resultado.txt já existe
+2017-06-23 22:28:01.058046 Arquivo logs.txt já existe
+2017-06-23 22:28:01.058046 Diretório Logs já existe
+2017-06-23 22:28:01.059045 Arquivo resultado.txt já existe
+2017-06-23 22:28:49.368768 Arquivo logs.txt já existe
+2017-06-23 22:28:49.369772 Diretório Logs já existe
+2017-06-23 22:28:49.370773 Arquivo resultado.txt já existe
+2017-06-23 22:29:39.267374 Arquivo logs.txt já existe
+2017-06-23 22:29:39.268376 Diretório Logs já existe
+2017-06-23 22:29:39.269371 Arquivo resultado.txt já existe
+2017-06-23 22:29:58.398987 Cep Inválido: 99
+2017-06-23 22:40:00.595804 Arquivo logs.txt já existe
+2017-06-23 22:40:00.596800 Arquivo resultado.txt já existe
+2017-06-23 22:44:09.137532 Arquivo logs.txt já existe
+2017-06-23 22:44:09.138517 Diretório Logs já existe
+2017-06-23 22:44:09.139518 Arquivo resultado.txt já existe
+2017-06-23 22:45:01.438894 Arquivo logs.txt já existe
+2017-06-23 22:45:01.438894 Diretório Logs já existe
+2017-06-23 22:45:01.439894 Arquivo resultado.txt já existe
